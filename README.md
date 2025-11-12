@@ -27,7 +27,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://github.com/ozgegcr/kodluyoruzilkrepo/blob/main/LICENSE)
 
-
+![Proje Görüntüsü](markdownresim.png)
 
 
 
